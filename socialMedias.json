@@ -1,0 +1,110 @@
+{
+    "github": {
+        "url": "https://github.com/",
+        "icon": "https://i.imgur.com/n8IVpbI.png",
+        "display": "GitHub",
+        "color": "#333"
+    },
+    "youtube": {
+        "url": "https://youtube.com/",
+        "icon": "https://i.imgur.com/DyZ54fP.png",
+        "display": "YouTube",
+        "color": "#ff0000"
+    },
+    "discord": {
+        "url": "https://discord.com/users/",
+        "icon": "https://i.imgur.com/7iVYvfa.png",
+        "display": "Discord",
+        "color": "#7289da"
+    },
+    "twitter": {
+        "url": "https://twitter.com/",
+        "icon": "https://i.imgur.com/mt2gCbw.png",
+        "display": "Twitter",
+        "color": "#1da1f2"
+    },
+    "x": {
+        "url": "https://x.com/",
+        "icon": "fab fa-xing",
+        "display": "X",
+        "color": "#006567"
+    },
+    "instagram": {
+        "url": "https://instagram.com/",
+        "icon": "https://i.imgur.com/9xh5lUZ.png",
+        "display": "Instagram",
+        "color": "#e1306c"
+    },
+    "twitch": {
+        "url": "https://twitch.tv/",
+        "icon": "https://i.imgur.com/HqxpzC7.png",
+        "display": "Twitch",
+        "color": "#6441a5"
+    },
+    "facebook": {
+        "url": "https://facebook.com/",
+        "icon": "https://i.imgur.com/O0cfnU2.png",
+        "display": "Facebook",
+        "color": "#3b5998"
+    },
+    "snapchat": {
+        "url": "https://snapchat.com/",
+        "icon": "https://i.imgur.com/U705pGE.png",
+        "display": "Snapchat",
+        "color": "#fffc00"
+    },
+    "reddit": {
+        "url": "https://reddit.com/user/",
+        "icon": "fab fa-reddit",
+        "display": "Reddit",
+        "color": "#ff4500"
+    },
+    "penterest": {
+        "url": "https://penterest.com/",
+        "icon": "fab fa-penterest",
+        "display": "Penterest",
+        "color": "#bd081c"
+    },
+    "tumblr": {
+        "url": "https://tumblr.com/",
+        "icon": "fab fa-tumblr",
+        "display": "Tumblr",
+        "color": "#35465c"
+    },
+    "tiktok": {
+        "url": "https://tiktok.com/",
+        "icon": "https://i.imgur.com/qnLGTfh.png",
+        "display": "TikTok",
+        "color": "#000000"
+    },
+    "linkedin": {
+        "url": "https://linkedin.com/in/",
+        "icon": "fab fa-linkedin",
+        "display": "LinkedIn",
+        "color": "#0077b5"
+    },
+    "spotify": {
+        "url": "https://open.spotify.com/user/",
+        "icon": "fab fa-spotify",
+        "display": "Spotify",
+        "color": "#1db954"
+    },
+    "soundcloud": {
+        "url": "https://soundcloud.com/",
+        "icon": "fab fa-soundcloud",
+        "display": "SoundCloud",
+        "color": "#ff8800"
+    },
+    "steam": {
+        "url": "https://steamcommunity.com/id/",
+        "icon": "fab fa-steam",
+        "display": "Steam",
+        "color": "#000000"
+    },
+    "mail": {
+        "url": "mailto:",
+        "icon": "fas fa-envelope",
+        "display": "Mail",
+        "color": "#ff0000"
+    }
+}
