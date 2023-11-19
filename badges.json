@@ -14,5 +14,9 @@
   "bughunter": {
     "icon": "https://i.imgur.com/IViqZiS.png",
     "display": "Bug Hunter"
+  },
+  "premium": {
+    "icon": "https://i.imgur.com/y13BjoO.png",
+    "display": "Premium"
   }
 }
