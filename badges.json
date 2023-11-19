@@ -2,5 +2,9 @@
   "team": {
     "icon": "https://i.imgur.com/N24FoUu.png",
     "display": "Athen Team"
+  },
+  "developer": {
+    "icon": "https://i.imgur.com/gwBhfd6.png",
+    "display": "Athen Developer"
   }
 }
