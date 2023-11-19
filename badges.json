@@ -10,5 +10,9 @@
   "booster": {
     "icon": "https://i.imgur.com/taKiCL3.png",
     "display": "Discord Booster"
+  },
+  "bughunter": {
+    "icon": "https://i.imgur.com/IViqZiS.png",
+    "display": "Bug Hunter"
   }
 }
