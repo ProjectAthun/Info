@@ -6,5 +6,9 @@
   "developer": {
     "icon": "https://i.imgur.com/gwBhfd6.png",
     "display": "Athen Developer"
+  },
+  "booster": {
+    "icon": "https://i.imgur.com/taKiCL3.png",
+    "display": "Discord Booster"
   }
 }
