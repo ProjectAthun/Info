@@ -18,5 +18,9 @@
   "premium": {
     "icon": "https://i.imgur.com/aeO4Ydh.png",
     "display": "Premium"
+  },
+  "verified": {
+    "icon": "https://i.imgur.com/qHK63kf.png",
+    "display": "Athen Verified"
   }
 }
