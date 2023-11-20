@@ -25,7 +25,7 @@
     },
     "x": {
         "url": "https://x.com/",
-        "icon": "fab fa-xing",
+        "icon": "https://i.imgur.com/qsuvFPQ.png",
         "display": "X",
         "color": "#006567"
     },
@@ -55,19 +55,19 @@
     },
     "reddit": {
         "url": "https://reddit.com/user/",
-        "icon": "fab fa-reddit",
+        "icon": "https://i.imgur.com/hkpt15z.png",
         "display": "Reddit",
         "color": "#ff4500"
     },
     "penterest": {
         "url": "https://penterest.com/",
-        "icon": "fab fa-penterest",
+        "icon": "https://i.imgur.com/bRVdHIz.png",
         "display": "Penterest",
         "color": "#bd081c"
     },
     "tumblr": {
         "url": "https://tumblr.com/",
-        "icon": "fab fa-tumblr",
+        "icon": "https://i.imgur.com/oYRg1wu.png",
         "display": "Tumblr",
         "color": "#35465c"
     },
@@ -79,31 +79,31 @@
     },
     "linkedin": {
         "url": "https://linkedin.com/in/",
-        "icon": "fab fa-linkedin",
+        "icon": "https://i.imgur.com/q9xd604.png",
         "display": "LinkedIn",
         "color": "#0077b5"
     },
     "spotify": {
         "url": "https://open.spotify.com/user/",
-        "icon": "fab fa-spotify",
+        "icon": "https://i.imgur.com/o40GNVe.png",
         "display": "Spotify",
         "color": "#1db954"
     },
     "soundcloud": {
         "url": "https://soundcloud.com/",
-        "icon": "fab fa-soundcloud",
+        "icon": "https://i.imgur.com/F8DQOX3.png",
         "display": "SoundCloud",
         "color": "#ff8800"
     },
     "steam": {
         "url": "https://steamcommunity.com/id/",
-        "icon": "fab fa-steam",
+        "icon": "https://i.imgur.com/HwZK9Ve.png",
         "display": "Steam",
         "color": "#000000"
     },
     "mail": {
         "url": "mailto:",
-        "icon": "fas fa-envelope",
+        "icon": "https://i.imgur.com/i7Aq8GC.png",
         "display": "Mail",
         "color": "#ff0000"
     }
