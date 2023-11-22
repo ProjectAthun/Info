@@ -1,11 +1,11 @@
 {
   "team": {
     "icon": "https://i.imgur.com/N24FoUu.png",
-    "display": "Athen Team"
+    "display": "Athun Team"
   },
   "developer": {
     "icon": "https://i.imgur.com/gwBhfd6.png",
-    "display": "Athen Developer"
+    "display": "Athun Developer"
   },
   "booster": {
     "icon": "https://i.imgur.com/taKiCL3.png",
@@ -21,6 +21,6 @@
   },
   "verified": {
     "icon": "https://i.imgur.com/qHK63kf.png",
-    "display": "Athen Verified"
+    "display": "Athun Verified"
   }
 }
