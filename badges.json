@@ -22,5 +22,9 @@
   "verified": {
     "icon": "https://i.imgur.com/qHK63kf.png",
     "display": "Athun Verified"
+  },
+  "donator": {
+    "icon": "https://i.imgur.com/lxdmG4H.png",
+    "display": "Donator"
   }
 }
