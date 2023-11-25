@@ -2,5 +2,9 @@
   "default": {
     "name": "Default",
     "image": "https://i.imgur.com/N24FoUu.png"
+  },
+  "test": {
+    "Name": "Test",
+    "image": "https://i.imgur.com/lxdmG4H.png"
   }
 }
